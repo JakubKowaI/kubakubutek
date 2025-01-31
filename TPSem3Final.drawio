@@ -1,22 +1,22 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6.1 Safari/605.1.15" version="26.0.10">
   <diagram name="Strona-1" id="Xkmi08W4jPSwvixj5hdW">
-    <mxGraphModel dx="4830" dy="3257" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2410" dy="1666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0y7wqeOaAgVBkYj9QTGw-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="SDx-nbXRSxSEXaq3ydwH-2" target="SDx-nbXRSxSEXaq3ydwH-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SDx-nbXRSxSEXaq3ydwH-2" value="Reserwuj" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SDx-nbXRSxSEXaq3ydwH-2" value="Reserwuj" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;labelBackgroundColor=default;" parent="1" vertex="1">
           <mxGeometry x="200" y="420" width="180" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="SDx-nbXRSxSEXaq3ydwH-3" value="- Domek domek&lt;div&gt;- int dorośli&lt;/div&gt;&lt;div&gt;- int dzieci&lt;/div&gt;&lt;div&gt;- int dni&lt;/div&gt;&lt;div&gt;- List&amp;lt;Pakiet&amp;gt;&lt;/div&gt;&lt;div&gt;- Zniżka zniżka&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="SDx-nbXRSxSEXaq3ydwH-2" vertex="1">
+        <mxCell id="SDx-nbXRSxSEXaq3ydwH-3" value="&lt;span style=&quot;&quot;&gt;- Domek domek&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;- int dorośli&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;- int dzieci&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;- int dni&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;- List&amp;lt;Pakiet&amp;gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;- Zniżka zniżka&lt;/span&gt;&lt;/div&gt;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=default;" parent="SDx-nbXRSxSEXaq3ydwH-2" vertex="1">
           <mxGeometry y="26" width="180" height="94" as="geometry" />
         </mxCell>
         <mxCell id="SDx-nbXRSxSEXaq3ydwH-4" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="SDx-nbXRSxSEXaq3ydwH-2" vertex="1">
           <mxGeometry y="120" width="180" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="SDx-nbXRSxSEXaq3ydwH-5" value="&lt;div&gt;+ int czytajDorośli()&lt;/div&gt;&lt;div&gt;+ int czytajDzieci()&lt;/div&gt;&lt;div&gt;+ int czytaj Dni()&lt;/div&gt;&lt;div&gt;+ Domek wybierzDomek()&lt;/div&gt;&lt;div&gt;+ List&amp;lt;Pakiet&amp;gt; wybierzPakiety()&lt;/div&gt;&lt;div&gt;+ Zniżka wybierzZniżkę()&lt;/div&gt;+ double obliczCenę()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="SDx-nbXRSxSEXaq3ydwH-2" vertex="1">
+        <mxCell id="SDx-nbXRSxSEXaq3ydwH-5" value="&lt;div&gt;+ int czytajDorośli()&lt;/div&gt;&lt;div&gt;+ int czytajDzieci()&lt;/div&gt;&lt;div&gt;+ int czytaj Dni()&lt;/div&gt;&lt;div&gt;+ Domek wybierzDomek()&lt;/div&gt;&lt;div&gt;+ List&amp;lt;Pakiet&amp;gt; wybierzPakiety()&lt;/div&gt;&lt;div&gt;+ Zniżka wybierzZniżkę()&lt;/div&gt;+ double obliczCenę()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;labelBackgroundColor=default;" parent="SDx-nbXRSxSEXaq3ydwH-2" vertex="1">
           <mxGeometry y="128" width="180" height="122" as="geometry" />
         </mxCell>
         <mxCell id="SDx-nbXRSxSEXaq3ydwH-18" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Pakiet&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;+ obliczKoszt(int dorośli, int dzieci, int dni)&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" parent="1" vertex="1">
@@ -251,6 +251,9 @@
               <mxPoint x="-120" y="1140" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="0y7wqeOaAgVBkYj9QTGw-125" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;JAKUB KOWAL&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="605" y="-122" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
