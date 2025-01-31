@@ -153,221 +153,11 @@
             <mxPoint x="-982" y="747" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-14" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;AbstrakcyjnaFabrykaDomków&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ DomekPremium twórzDomekPremium()&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ DomekBasic twórzDomekBasic()&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ DomekPK twórzDomekPremiumKlima()&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 4px;&quot;&gt;+ DomekBK twórzDomekBasicKlima()&lt;/p&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="940" width="230" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-33" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;FabrykaDomków4os&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ int pojemność&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ DomekPremium twórzDomekPremium()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ DomekBasic twórzDomekBasic()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ DomekPK twórzDomekPremiumKlima()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ DomekBK twórzDomekBasicKlima()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-820" y="1130" width="270" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-34" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;FabrykaDomków6os&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ int pojemność&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ DomekPremium twórzDomekPremium()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ DomekBasic twórzDomekBasic()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ DomekPK twórzDomekPremiumKlima()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ DomekBK twórzDomekBasicKlima()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="1130" width="270" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-35" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;FabrykaDomków8os&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ int pojemność&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ DomekPremium twórzDomekPremium()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ DomekBasic twórzDomekBasic()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ DomekPK twórzDomekPremiumKlima()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ DomekBK twórzDomekBasicKlima()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="560" y="1130" width="270" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-37" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;DomekPremium&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- bool premium&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- bool klima&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int pojemność&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int CenaZaNoc&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ grafikRezerwacji&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ int obliczCenę()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ void ustawCenę(int cena)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-850" y="1330" width="150" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-38" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;DomekPK&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- bool premium&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- bool klima&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int pojemność&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int CenaZaNoc&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ grafikRezerwacji&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ int obliczCenę()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ void ustawCenę(int cena)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-681" y="1330" width="150" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-39" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;DomekBasic&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- bool premium&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- bool klima&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int pojemność&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int CenaZaNoc&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ grafikRezerwacji&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ int obliczCenę()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ void ustawCenę(int cena)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-1020" y="1330" width="150" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-40" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;DomekBK&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- bool premium&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- bool klima&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int pojemność&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int CenaZaNoc&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ grafikRezerwacji&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ int obliczCenę()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ void ustawCenę(int cena)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-510" y="1330" width="150" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-46" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-33" target="0y7wqeOaAgVBkYj9QTGw-14">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-390" y="1050" as="sourcePoint" />
-            <mxPoint x="-230" y="1050" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-47" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-34" target="0y7wqeOaAgVBkYj9QTGw-14">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-241" y="1140" as="sourcePoint" />
-            <mxPoint x="-146" y="1090" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-48" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-35" target="0y7wqeOaAgVBkYj9QTGw-14">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-231" y="1150" as="sourcePoint" />
-            <mxPoint x="-136" y="1100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-49" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-33" target="0y7wqeOaAgVBkYj9QTGw-39">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-950" y="1470" as="sourcePoint" />
-            <mxPoint x="-741" y="1310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-50" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-33" target="0y7wqeOaAgVBkYj9QTGw-37">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-633" y="1260" as="sourcePoint" />
-            <mxPoint x="-629.0000000000005" y="1310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-51" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-33" target="0y7wqeOaAgVBkYj9QTGw-38">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-623" y="1270" as="sourcePoint" />
-            <mxPoint x="-517" y="1310" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-52" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-33" target="0y7wqeOaAgVBkYj9QTGw-40">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-521" y="1260" as="sourcePoint" />
-            <mxPoint x="-507" y="1320" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-54" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;{abstract}&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Domek&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- bool premium&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- bool klima&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int CenaZaNoc&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ int obliczCenę()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ void ustawCenę(int Cena)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="1850" width="160" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-55" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-39" target="0y7wqeOaAgVBkYj9QTGw-54">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-660" y="1560" as="sourcePoint" />
-            <mxPoint x="-500" y="1560" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-56" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-37" target="0y7wqeOaAgVBkYj9QTGw-54">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-650" y="1570" as="sourcePoint" />
-            <mxPoint x="-490" y="1570" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-57" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-38" target="0y7wqeOaAgVBkYj9QTGw-54">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-640" y="1580" as="sourcePoint" />
-            <mxPoint x="-480" y="1580" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-58" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-40" target="0y7wqeOaAgVBkYj9QTGw-54">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-630" y="1590" as="sourcePoint" />
-            <mxPoint x="-470" y="1590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-59" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;DomekPremium&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- bool premium&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- bool klima&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int pojemność&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int CenaZaNoc&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ grafikRezerwacji&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ int obliczCenę()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ void ustawCenę(int cena)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="1330" width="150" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-60" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;DomekPK&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- bool premium&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- bool klima&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int pojemność&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int CenaZaNoc&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ grafikRezerwacji&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ int obliczCenę()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ void ustawCenę(int cena)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="9" y="1330" width="150" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-61" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;DomekBasic&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- bool premium&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- bool klima&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int pojemność&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int CenaZaNoc&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ grafikRezerwacji&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ int obliczCenę()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ void ustawCenę(int cena)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-330" y="1330" width="150" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-62" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;DomekBK&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- bool premium&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- bool klima&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int pojemność&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int CenaZaNoc&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ grafikRezerwacji&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ int obliczCenę()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ void ustawCenę(int cena)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1330" width="150" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-63" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;DomekPremium&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- bool premium&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- bool klima&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int pojemność&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int CenaZaNoc&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ grafikRezerwacji&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ int obliczCenę()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ void ustawCenę(int cena)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="540" y="1330" width="150" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-64" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;DomekPK&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- bool premium&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- bool klima&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int pojemność&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int CenaZaNoc&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ grafikRezerwacji&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ int obliczCenę()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ void ustawCenę(int cena)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="709" y="1330" width="150" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-65" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;DomekBasic&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- bool premium&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- bool klima&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int pojemność&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int CenaZaNoc&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ grafikRezerwacji&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ int obliczCenę()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ void ustawCenę(int cena)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="370" y="1330" width="150" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-66" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;DomekBK&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- bool premium&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- bool klima&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int pojemność&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int CenaZaNoc&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ grafikRezerwacji&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ int obliczCenę()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ void ustawCenę(int cena)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="880" y="1330" width="150" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-71" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-61" target="0y7wqeOaAgVBkYj9QTGw-54">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-480" y="1690" as="sourcePoint" />
-            <mxPoint x="-320" y="1690" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-72" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-59" target="0y7wqeOaAgVBkYj9QTGw-54">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-470" y="1700" as="sourcePoint" />
-            <mxPoint x="-310" y="1700" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-73" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-60" target="0y7wqeOaAgVBkYj9QTGw-54">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-460" y="1710" as="sourcePoint" />
-            <mxPoint x="-300" y="1710" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-74" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-62" target="0y7wqeOaAgVBkYj9QTGw-54">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-450" y="1720" as="sourcePoint" />
-            <mxPoint x="-290" y="1720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-75" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-65" target="0y7wqeOaAgVBkYj9QTGw-54">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-440" y="1730" as="sourcePoint" />
-            <mxPoint x="-280" y="1730" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-76" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-63" target="0y7wqeOaAgVBkYj9QTGw-54">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-430" y="1740" as="sourcePoint" />
-            <mxPoint x="-270" y="1740" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-77" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-64" target="0y7wqeOaAgVBkYj9QTGw-54">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-420" y="1750" as="sourcePoint" />
-            <mxPoint x="-260" y="1750" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-78" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-66" target="0y7wqeOaAgVBkYj9QTGw-54">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-410" y="1760" as="sourcePoint" />
-            <mxPoint x="-250" y="1760" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-79" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-34" target="0y7wqeOaAgVBkYj9QTGw-61">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-605" y="1260" as="sourcePoint" />
-            <mxPoint x="-500" y="1351" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-80" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-34" target="0y7wqeOaAgVBkYj9QTGw-59">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-86" y="1260" as="sourcePoint" />
-            <mxPoint x="-170" y="1342" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-81" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-34" target="0y7wqeOaAgVBkYj9QTGw-60">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-76" y="1270" as="sourcePoint" />
-            <mxPoint x="-160" y="1352" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-82" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-34" target="0y7wqeOaAgVBkYj9QTGw-62">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-66" y="1280" as="sourcePoint" />
-            <mxPoint x="-150" y="1362" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-83" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-35" target="0y7wqeOaAgVBkYj9QTGw-65">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-56" y="1290" as="sourcePoint" />
-            <mxPoint x="-140" y="1372" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-84" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-35" target="0y7wqeOaAgVBkYj9QTGw-63">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="635" y="1260" as="sourcePoint" />
-            <mxPoint x="530" y="1351" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-85" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-35" target="0y7wqeOaAgVBkYj9QTGw-64">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="645" y="1270" as="sourcePoint" />
-            <mxPoint x="540" y="1361" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-86" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-35" target="0y7wqeOaAgVBkYj9QTGw-66">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="655" y="1280" as="sourcePoint" />
-            <mxPoint x="550" y="1371" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="0y7wqeOaAgVBkYj9QTGw-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-88" target="0y7wqeOaAgVBkYj9QTGw-116">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0y7wqeOaAgVBkYj9QTGw-88" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;SingletonDomki&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- List&amp;lt;Domek&amp;gt; domki : static&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- AbstrakcyjnaFabrykaDomków afd&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ void twórzDomek(...)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ void zmieńCenę(int cena)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ List&amp;lt;Domek&amp;gt; znajdźDomek(...)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-133.75" y="780" width="197.5" height="100" as="geometry" />
+          <mxGeometry x="-133.75" y="780" width="197.5" height="120" as="geometry" />
         </mxCell>
         <mxCell id="0y7wqeOaAgVBkYj9QTGw-90" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;&amp;lt;&amp;lt;interface&amp;gt;&amp;gt;&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;TwórzDomek&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;+ void twórzDomek(...)&lt;div&gt;+ void zmienCenę(int cena)&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-340" y="675" width="150" height="80" as="geometry" />
@@ -387,12 +177,6 @@
             <mxPoint x="-200" y="762" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0y7wqeOaAgVBkYj9QTGw-94" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-88" target="0y7wqeOaAgVBkYj9QTGw-14">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-230" y="910" as="sourcePoint" />
-            <mxPoint x="-70" y="910" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="0y7wqeOaAgVBkYj9QTGw-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SDx-nbXRSxSEXaq3ydwH-5" target="0y7wqeOaAgVBkYj9QTGw-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -400,6 +184,72 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="420" y="370" as="sourcePoint" />
             <mxPoint x="580" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0y7wqeOaAgVBkYj9QTGw-105" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;{abstract}&lt;/b&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Dekorator&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Domek domek&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ int obliczCenę(int dni)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="1120" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0y7wqeOaAgVBkYj9QTGw-110" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;PremiumDekorator&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ int obliczCenę(int dni)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="1260" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0y7wqeOaAgVBkYj9QTGw-111" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;KlimaDekorator&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ int obliczCenę(int dni)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="1260" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0y7wqeOaAgVBkYj9QTGw-112" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-110" target="0y7wqeOaAgVBkYj9QTGw-105">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-570" y="1230" as="sourcePoint" />
+            <mxPoint x="-410" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0y7wqeOaAgVBkYj9QTGw-113" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-111" target="0y7wqeOaAgVBkYj9QTGw-105">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-332" y="1270" as="sourcePoint" />
+            <mxPoint x="-287" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0y7wqeOaAgVBkYj9QTGw-114" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-105" target="0y7wqeOaAgVBkYj9QTGw-116">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-400" y="1060" as="sourcePoint" />
+            <mxPoint x="-240" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0y7wqeOaAgVBkYj9QTGw-116" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Domek&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int cenaZaNoc&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int pojemność&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ obliczCenę(int dni)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ ustawCenę(int cena)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="970" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0y7wqeOaAgVBkYj9QTGw-117" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Domek4os&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int pojemność&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int cenaZaNoc&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ void obliczCenę(int dni)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ void ustawCenę(int cena)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="1120" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0y7wqeOaAgVBkYj9QTGw-118" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Domek6os&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int pojemność&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int cenaZaNoc&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ void obliczCenę(int dni)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ void ustawCenę(int cena)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1120" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0y7wqeOaAgVBkYj9QTGw-119" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Domek8os&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int pojemność&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;- int cenaZaNoc&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ void obliczCenę(int dni)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ void ustawCenę(int cena)&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1120" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0y7wqeOaAgVBkYj9QTGw-120" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-117" target="0y7wqeOaAgVBkYj9QTGw-116">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-157" y="1130" as="sourcePoint" />
+            <mxPoint x="-113" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0y7wqeOaAgVBkYj9QTGw-121" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-118" target="0y7wqeOaAgVBkYj9QTGw-116">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-147" y="1140" as="sourcePoint" />
+            <mxPoint x="-103" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0y7wqeOaAgVBkYj9QTGw-122" value="" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-119" target="0y7wqeOaAgVBkYj9QTGw-116">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-137" y="1150" as="sourcePoint" />
+            <mxPoint x="-93" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0y7wqeOaAgVBkYj9QTGw-123" value="" style="endArrow=diamondThin;endFill=0;endSize=24;html=1;rounded=0;" edge="1" parent="1" source="0y7wqeOaAgVBkYj9QTGw-116" target="0y7wqeOaAgVBkYj9QTGw-105">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-290" y="1370" as="sourcePoint" />
+            <mxPoint x="-130" y="1370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-120" y="1140" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
